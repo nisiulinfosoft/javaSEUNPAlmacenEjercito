@@ -1,0 +1,45 @@
+UNIVERSIDAD NACIONAL DE PIURA
+
+ESCUELA DE INGENIERÍA INFORMÁTICA
+
+AUTOR: LUISIN ENRIQUE MAZA ALCALDE
+
+PAÍS: PERÚ
+
+DEPARTAMENTO: PIURA
+
+====================================================================
+
+DESCRIPCION DEL SISTEMA:
+
+SISTEMA QUE FUE DESARROLLADO CON EL LENGUAJE DE PROGRAMACION JAVA SE Y EL SISTEMA
+GESTOR DE BASE DE DATOS MYSLQ, SE APLICO LA PROGRAMACION ORIENTADA A OBJETOS
+DIVIDIENDO LA LOGICA DE NEGOCIO (DAO), LA INTERFACE.
+
+LOS REPORTE FUERON TRABAJADOS CON IREPORT.
+
+LA BASE DE DATOS FUE DISEÑADA CON DBDESIGNER.
+
+====================================================================0
+
+RECOMENDACION PARA CARGAR LA BD:
+
+NORMAMENTE YO UTILIZO EL NAVICAT PARA TRABAJAR MIS CONSULTAS Y HACER MIS RESPALDOS
+DE MI BD LA 
+
+=======================================================================
+
+
+FACEBOOK: https://www.facebook.com/luisinenrique.mazaalcalde
+
+COMUNIDAD DE FACEBOOK: https://www.facebook.com/WebMasterLuisinEnrique
+
+CANAL DE YOUTUBE: http://www.youtube.com/user/nisiulinfo
+
+CORREO: luis_12_835@hotmail.com
+
+===============================================================================
+
+
+NO OLVIDEN QUE DAR ME GUSTA EN MI COMUNIDAD DE FACEBOOK.
+
